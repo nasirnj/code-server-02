@@ -1,0 +1,7 @@
+bind-addr: 0.0.0.0:8080
+  #auth: password
+  #password: welcome1
+auth: none
+cert: /root/.config/code-server/cert.pem
+cert-key: /root/.config/code-server/key.pem
+
